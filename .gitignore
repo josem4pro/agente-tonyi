@@ -10,3 +10,4 @@ cache/
 dist/
 build/
 .DS_Store
+.aider*
